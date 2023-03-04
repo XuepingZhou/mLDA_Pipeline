@@ -17,6 +17,9 @@ This repository contains the analysis pipeline of detecting marginally strong an
 
 # Shorthands: 
 Single nucleotide polymorphism (SNP)
+
 Chromosome (chr)
+
 Minor allele frequency (MAF)
+
 Linkage disequilibrium (LD)
