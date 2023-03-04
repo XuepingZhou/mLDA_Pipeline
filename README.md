@@ -1,4 +1,4 @@
-# mLDA_Pipeline
+# mLDA Pipeline
 This repository contains the analysis pipeline of detecting marginally strong and marginally weak signals for binary outcome classification using single nucleotide polymorphism (SNP) genotype data. The developed analytical pipeline is open-source, and can be used for analyzing SNP data in R softwares with step-by-step instructions.
 
 
